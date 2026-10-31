@@ -4,7 +4,7 @@
 - Formato: Post singolo
 - Rubrica: Brand e community
 - CTA: Commenta
-- Stato: Grafica pronta, da approvare
+- Stato: Programmato su Metricool (pubblicazione automatica)
 - Fonti: —
 
 ## Caption

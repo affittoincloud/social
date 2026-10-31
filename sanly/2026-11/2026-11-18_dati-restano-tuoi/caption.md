@@ -4,7 +4,7 @@
 - Formato: Post singolo
 - Rubrica: Brand e community
 - CTA: Link in bio
-- Stato: Grafica pronta, da approvare
+- Stato: Programmato su Metricool (pubblicazione automatica)
 - Fonti: sanly.it, sezione «Nessun vincolo» e FAQ
 
 ## Caption

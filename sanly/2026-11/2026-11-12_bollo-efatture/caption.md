@@ -4,7 +4,7 @@
 - Formato: Post singolo
 - Rubrica: Fisco chiaro
 - CTA: Salva il post
-- Stato: Grafica pronta, da approvare
+- Stato: Programmato su Metricool (pubblicazione automatica)
 - Fonti: Assolombarda e Edotto, scadenze imposta di bollo e-fatture 2026
 
 ## Caption

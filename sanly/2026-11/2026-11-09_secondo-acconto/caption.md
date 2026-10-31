@@ -4,7 +4,7 @@
 - Formato: Carosello (4 slide)
 - Rubrica: Fisco chiaro
 - CTA: Salva il post
-- Stato: Grafica pronta, da approvare
+- Stato: Programmato su Metricool (pubblicazione automatica)
 - Fonti: Scadenzari novembre 2026 (PMI.it, Informazione Fiscale, LeggeInChiaro); sanly.it, cruscotto fiscale
 
 ## Caption

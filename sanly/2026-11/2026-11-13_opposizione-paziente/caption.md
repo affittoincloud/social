@@ -4,7 +4,7 @@
 - Formato: Carosello (3 slide)
 - Rubrica: Fisco chiaro
 - CTA: Salva il post
-- Stato: Grafica pronta, da approvare
+- Stato: Programmato su Metricool (pubblicazione automatica)
 - Fonti: Ordine Psicologi Piemonte (richiesta verbale annotata in fattura); Fiscoetasse; calendario Sistema TS spese 2026
 
 ## Caption

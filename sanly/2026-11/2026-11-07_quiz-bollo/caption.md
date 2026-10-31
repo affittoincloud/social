@@ -4,7 +4,7 @@
 - Formato: Carosello (2 slide)
 - Rubrica: Brand e community
 - CTA: Commenta
-- Stato: Grafica pronta, da approvare
+- Stato: Programmato su Metricool (pubblicazione automatica)
 - Fonti: DPR 642/1972, Tariffa parte I, art. 13; art. 10 DPR 633/1972
 
 ## Caption

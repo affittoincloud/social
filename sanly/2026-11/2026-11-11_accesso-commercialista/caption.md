@@ -4,7 +4,7 @@
 - Formato: Post singolo
 - Rubrica: Sanly in azione
 - CTA: Tagga il commercialista
-- Stato: Grafica pronta, da approvare
+- Stato: Programmato su Metricool (pubblicazione automatica)
 - Fonti: sanly.it, sezione accesso commercialista
 
 ## Caption

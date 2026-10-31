@@ -4,7 +4,7 @@
 - Formato: Carosello (3 slide)
 - Rubrica: Fisco chiaro
 - CTA: Salva il post
-- Stato: Grafica pronta, da approvare
+- Stato: Programmato su Metricool (pubblicazione automatica)
 - Fonti: Calendario Sistema TS spese 2026 (nota del 05/01/2026); DM 29/10/2025
 
 ## Caption

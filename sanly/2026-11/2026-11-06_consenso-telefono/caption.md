@@ -4,7 +4,7 @@
 - Formato: Post singolo
 - Rubrica: Sanly in azione
 - CTA: Link in bio
-- Stato: Grafica pronta, da approvare
+- Stato: Programmato su Metricool (pubblicazione automatica)
 - Fonti: sanly.it, sezioni funzioni e FAQ
 
 ## Caption
