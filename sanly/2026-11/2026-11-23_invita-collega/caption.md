@@ -4,7 +4,7 @@
 - Formato: Post singolo
 - Rubrica: Offerta
 - CTA: Condividi con un collega
-- Stato: Grafica pronta
+- Stato: Programmato su Metricool (pubblicazione automatica)
 
 ## Caption
 

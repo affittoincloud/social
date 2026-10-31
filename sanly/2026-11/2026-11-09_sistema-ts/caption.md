@@ -4,7 +4,7 @@
 - Formato: Carosello (3 slide)
 - Rubrica: Fisco chiaro
 - CTA: Salva e condividi
-- Stato: Grafica pronta
+- Stato: Programmato su Metricool (pubblicazione automatica)
 
 ## Caption
 
