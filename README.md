@@ -17,4 +17,6 @@ destinato a essere pubblicato: niente dati di clienti, chiavi o documenti intern
     caption.md                  caption, hashtag, data prevista e stato
 ```
 
+`<prodotto>/riserva/` raccoglie i contenuti pronti ma non ancora in calendario (reel senza video, storie con sticker, post tolti).
+
 Cartelle dei prodotti: `sanly/`, `fatturo/`, `scrivaniaincloud/`, `synecho/`.
